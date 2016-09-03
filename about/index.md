@@ -5,33 +5,7 @@ tags: [about, Jekyll, theme, moon]
 date: 2016-03-21
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+<center>Hi, my name is Cody Clark, and I'm a recovering prescriptivist currently admitted at Cedarville University. I "technically" write stuff and have written for [SendGrid](https:sendgrid.com), [Informatica](https:informatica.com), and [Honda R&D](www.hondaresearch.com). I haven't recovered yet—my bookcase is still littered with guides like *Garner's Modern English Usage* and the *Chicago Manual of Style*. When I'm not writing, I enjoy playing in pit orchestras, visiting used book shops and arbitrarily omitting Oxford commas. </center>
 
-## Preview
-
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+[See My Projects](https://codyjtclark.github.io/projects/){: .btn}
