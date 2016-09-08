@@ -24,7 +24,7 @@ You can re-establish the schedule by rescheduling the workflow or by manually ru
 ## Solution
 ​Before you manually start a failed workflow, Informatica recommends that you unschedule it first. When you unschedule the workflow first and reschedule it, after the manual run completes, PowerCenter Integration Service does not acknowledge any missed schedule.
 
-If you do not unschedule the workflow, and the PowerCenter Integration Service detects that the scheduled run time was missed, it immediately runs the workflow again.
+Note: If you do not unschedule the workflow, and the PowerCenter Integration Service detects that the scheduled run time was missed, it immediately runs the workflow again.
 {: .notice}
 
 [See it live](https://kb.informatica.com/solution/23/Pages/54/335903.aspx?docid=335903&type=external&fromsource=eservice&index=1&myk=){: .btn}
