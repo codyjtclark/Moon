@@ -2,7 +2,7 @@
 layout: post
 title:  "Knowledge Base Article"
 date:   2016-09-08
-excerpt: "Running a failed workflow causes the PowerCenter Integration Service to run it again immediately"
+excerpt: "This is a KB Article I wrote for Informatica to prevent failed workflows from continualy looping"
 project: true
 tag:
 - Knowledge Base
