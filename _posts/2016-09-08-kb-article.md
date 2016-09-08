@@ -2,7 +2,7 @@
 layout: post
 title:  "Knowledge Base Article"
 date:   2016-09-08
-excerpt: "This is a KB Article I wrote for Informatica to prevent failed workflows from continualy looping"
+excerpt: "This is a KB Article I wrote for Informatica to help users prevent failed workflows from continualy running"
 project: true
 tag:
 - Knowledge Base
