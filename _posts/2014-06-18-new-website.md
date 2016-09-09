@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "HRA launches redesigned external website today"
-date:   2014-06-018
+date:   2014-06-18
 excerpt: "In addition to writing copy for the redesigned website, I also had the opportunity to write its announcement!"
 project: true
 tag:
