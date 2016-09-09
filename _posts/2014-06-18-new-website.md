@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Happy National Doughnut Day!"
+title:  "HRA launches redesigned external website today"
 date:   2014-06-018
-excerpt: "Corporate and Technical Communications means writing about everything from Acura chasis to doughnuts."
+excerpt: "In addition to writing copy for the redesigned website, I also had the opportunity to write its announcement!"
 project: true
 tag:
 - Corporate Communications
 comments: false
 ---
-![Donut_Day](/assets/img/hrd.png)
+![hrd](/assets/img/hrd.png)
 
 **HRA launches redesigned external website today**
 
