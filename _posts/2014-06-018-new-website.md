@@ -20,7 +20,7 @@ Today, HRA has launched a revamped external website featuring a content manageme
 
 “When we were conducting our situation analysis, we discovered HAM was redesigning their website through o2ideas, a creative agency based in Birmingham, Alabama,” says Jennifer Dahlgren (CTC). “We were able to save valuable time and resources by using the existing structure and basic programming while developing unique content and a different look and feel for the site.”
 
-The new site features more than a content management system and new design. 
+**The new site features more than a content management system and new design.**
 
 “Starting with the previous site as the foundation, we analyzed additional content opportunities and expanded the site to include our history, background and current capabilities,” says Dahlgren. “We also included social media and news links to give visitors a complete picture of what we’re all about as an organization.”
 
