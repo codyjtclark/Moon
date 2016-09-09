@@ -3,6 +3,7 @@ layout: post
 title:  "Real Impact - Video"
 date:   2014-07-15
 excerpt: "A vendor came in and recorded a 40-minute interview, and I got to piece together this script."
+project: true
 tag:
 - Corporate Communication
 comments: false
