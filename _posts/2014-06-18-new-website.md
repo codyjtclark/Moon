@@ -8,6 +8,7 @@ tag:
 - Corporate Communications
 comments: false
 ---
+
 ![hrd](/assets/img/hrd.png)
 
 **HRA launches redesigned external website today**
@@ -31,4 +32,3 @@ Through collaboration and attention to detail, this redesigning process has gone
 The new website contains pages that feature HRA news, values, and community. The website also has a new, engaging job opportunities page for potential associates to learn more about the different careers available at HRA.
 
 Check it out [here](www.hondaresearch.com)!
- 
