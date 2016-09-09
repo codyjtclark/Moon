@@ -5,7 +5,7 @@ date:   2016-06-27
 excerpt: "I had the opportunity to contribute to Informatica's blog as a guest author. Here's that post."
 project: true
 tag:
-- Technical Writing
+- Content Development
 comments: false
 ---
 ![Hortonworks_Cover](/assets/img/intern-blog.png)
