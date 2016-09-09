@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "A Website Redesigned"
+title:  "Web - A Website Redesigned"
 date:   2014-06-18
 excerpt: "I mostly wrote web copy for the site, but I was able to convince the vendor not to use a serif font on a black background..."
 project: true
 tag:
-- Design - Web
+- Design
 comments: false
 ---
 
