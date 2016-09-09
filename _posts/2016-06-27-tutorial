@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Using SendGrid with BriteVerify - Software Documentation"
+date:   2016-06-27
+excerpt: "This is a tutorial from BriteVerify which edited to fit SendGrid's doc standards and added to SendGrid's partners' documentation using Markdown, Atom, and Git"
+project: true
+tag:
+- SendGrid
+- Tutorial
+- BriteVerify
+comments: false
+---
+# Using SendGrid with BriteVerify
+## Creating a new API Key
+To use BriteVerify to verify your SendGrid list, you will need to generate an API Key within SendGrid. 
+Warning: The Sendgrid-generated key is generated and visible only once, so be sure to copy the API Key somewhere safe for future reference. 
+{: .notice}
+
+To get started, open the BriteVerify app and click **Import List** and then click **Sendgrid**. The app triggers the prompt to input the Sendgrid API key. This authentication is required only once to link the two applications. 
+
+[See it live](https://sendgrid.com/docs/Integrate/Tutorials/BriteVerify.html){: .btn}
