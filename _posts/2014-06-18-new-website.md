@@ -33,4 +33,4 @@ The new website contains pages that feature HRA news, values, and community. The
 
 Check out the new site [here](www.hondaresearch.com)!
 
-[See the before and after](/2014-06-18-before-after){: .btn}
+[See the before and after](/before-after){: .btn}
