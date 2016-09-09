@@ -5,7 +5,7 @@ date:   2014-06-18
 excerpt: "In addition to writing copy for the redesigned website, I also had the opportunity to write its announcement!"
 project: true
 tag:
-- Corporate Communications
+- Corporate Communication
 comments: false
 ---
 
