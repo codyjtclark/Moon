@@ -8,7 +8,7 @@ tag:
 - Knowledge Base
 - Informatica
 - PowerCenter
-comments: true
+comments: false
 ---
 # Running a failed workflow causes the PowerCenter Integration Service to run it again immediately, resulting in key violations and data errors
 
