@@ -7,4 +7,4 @@ tag:
 - Corporate Communication
 comments: false
 ---
-<iframe width="560" height="315" src="//<iframe src="https://drive.google.com/file/d/0Bw8Dw1D0tvR8OE54dE5ZN1RmRjQ/preview" width="640" height="480"></iframe>" 
+<iframe src="https://drive.google.com/file/d/0Bw8Dw1D0tvR8OE54dE5ZN1RmRjQ/preview" width="640" height="480"></iframe>
