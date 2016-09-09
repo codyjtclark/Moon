@@ -9,4 +9,4 @@ tag:
 comments: false
 ---
 
-<iframe width="560" height="315" src="//www.youtube.com/watch?v=7H6Ca9AZRw0" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7H6Ca9AZRw0" frameborder="0" allowfullscreen></iframe>
