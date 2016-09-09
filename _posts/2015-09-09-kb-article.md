@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Running a failed workflow causes the PowerCenter Integration Service to run it again immediately - Software Documentation"
-date:   2016-09-08
+date:   2015-09-08
 excerpt: "This is a KB Article I wrote for Informatica to help users prevent failed workflows from continualy running"
 project: true
 tag:
