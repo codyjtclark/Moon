@@ -10,7 +10,7 @@ comments: false
 ---
 ![Donut_Day](/assets/img/hrd.png)
 
-*HRA launches redesigned external website today*
+**HRA launches redesigned external website today**
 
 In 1999 and 2000 associates from HR, ISD, NC, DB2, and MR1 served on the NH Circles which established hondaresearch.com. For 14 years this site served as the primary resource to recruit and give potential employees an opportunity to learn about HRA.
 
