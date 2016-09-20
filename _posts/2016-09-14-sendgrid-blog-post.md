@@ -38,4 +38,5 @@ nbound Parse is a ridiculously versatile feature, and I hope that the new workfl
 Last quarter Inbound Parse averaged 44 tickets a month. The ticket data post-docs launch is still coming in, but in the couple weeks since going live, the new workflow is in the top 5 Parse-related articles in our docs for page views!
 
 Unfortunately, I won’t get to see the ongoing impact directly because I fly back to Ohio for one last year of school, but I now know that my degree doesn’t resign me to writing instructions for turning on printers or exporting PDFs. And that’s a pretty awesome feeling. I’m going to miss real-world projects with measurable impacts, but I suppose that’s my motivation to finish soon!
+
 [See it live](https://sendgrid.com/blog/versatility-vs-usability-revamping-sendgrids-inbound-parse-documentation/){: .btn}
