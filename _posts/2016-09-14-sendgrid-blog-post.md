@@ -8,6 +8,8 @@ tag:
 - Content Development
 comments: false
 ---
+[See it live](https://sendgrid.com/blog/versatility-vs-usability-revamping-sendgrids-inbound-parse-documentation/){: .btn}
+
 ## Making Email A Two-Way Conversation
 Everyone expects a company like SendGrid to send email—it’s literally in our name. But good communication goes both ways, and our Inbound Parse Webhook makes that possible. It can do fun things like [imitate Pokemon battles](https://sendgrid.com/blog/pokemon-sendgrid/) or [tally votes for the best nearby bar](https://sendgrid.com/blog/choosing-my-first-drink-with-sendgrid-foursquare-node-js-and-socket-io/), but it can also do super useful things like automatically respond to incoming email with the [optimal Taco Bell order for the amount of cash in your wallet](https://sendgrid.com/blog/optimize-fourthmeal-tacos-knapsacks-webhooks/) or [business card details](https://sendgrid.com/blog/oh-cardless-business-card-email-app/).
 
@@ -40,4 +42,4 @@ Last quarter Inbound Parse averaged 44 tickets a month. The ticket data post-doc
 
 Unfortunately, I won’t get to see the ongoing impact directly because I fly back to Ohio for one last year of school, but I now know that my degree doesn’t resign me to writing instructions for turning on printers or exporting PDFs. And that’s a pretty awesome feeling. I’m going to miss real-world projects with measurable impacts, but I suppose that’s my motivation to finish soon!
 
-[See it live](https://sendgrid.com/blog/versatility-vs-usability-revamping-sendgrids-inbound-parse-documentation/){: .btn}
+
