@@ -15,7 +15,7 @@ layout: compress
     <header class="header" role="banner">
         <div class="wrapper animated fadeIn">
             <div class="content">
-                <div class="post-title {% if page.feature %}">
+                <div class="post-title {% if page.feature %}  feature {% endif %}">
                     <h1>{{ page.title }}</h1>
                     <h4>{{ page.date | date_to_string }}</h4>
                     {% if site.reading_time %}
@@ -23,6 +23,7 @@ layout: compress
                       <i class="fa fa-clock-o"></i>
                       {% include read-time.html %}
                     </p><!-- /.entry-reading-time -->
+                   {% endif %}
                 </div>
                 <button class="button fa-chevron-left" onlick="goBack()">
                 </button>
