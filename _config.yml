@@ -1,5 +1,5 @@
 # Site
-title:              Cody Clark
+title:              Moon
 bio:                'Information Developer | Technical Writer'
 description:        "Hi, my name is Cody Clark, and I’m a recovering prescriptivist. I write stuff and post it here. Check out my stuff or don't. It's your life."
 reading_time:       true
@@ -32,7 +32,7 @@ disqus_shortname:   codyjtclark
 # if you don't have any of social below, comment the line.
 #google:
   #plus:            #username
-  analytics:        UA-85671472-1
+  analytics: UA-85671472-1
   #verify:
   #ad-client:
   #ad-slot:
@@ -40,20 +40,18 @@ disqus_shortname:   codyjtclark
 email:              me@codyjtclark.com
 #twitter:            username
 #facebook:           username
-github-url:         CodyJTClark
+github:             CodyJTClark
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin:           CodyJTClark
 #xing:              username
 instagram:          CodyWasTakenn
 #lastfm:            username
 #tumblr:            username
-#medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-#steam:             username
+#steam:              username
 #dribbble:          username
 #youtube:           username
-#youtube-channel:   channel
 #soundcloud:        username
 #weibo:             username
 #flickr:            username
