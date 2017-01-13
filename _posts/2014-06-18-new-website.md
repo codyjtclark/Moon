@@ -8,6 +8,8 @@ tag:
 - Content Development
 comments: false
 ---
+In addition to writing copy for the redesigned website, I also had the opportunity to write its announcement!
+{: .notice}
 
 ![hrd](/assets/img/hrd.png)
 
