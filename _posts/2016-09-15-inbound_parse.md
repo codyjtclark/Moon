@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Print - 2013 Cedarville University Factbook"
+title:  "Setting up the Inbound Parse Webhook"
 date:   2014-01-01
 excerpt: "I turned two bullet points in a Dev Evangelist's blog post into a comprehensive workflow."
 project: true
