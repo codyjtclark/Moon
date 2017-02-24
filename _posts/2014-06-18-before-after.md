@@ -8,6 +8,7 @@ tag:
 - Design
 comments: false
 ---
+[Click here for context](/new-website/){: .btn}
 
 ![Before](/assets/img/site-old.JPG)
 The original site
