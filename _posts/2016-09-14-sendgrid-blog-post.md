@@ -36,7 +36,7 @@ I created two separate tables to indicate which parameters are included by defau
 A compelling book throws its reader into the action instead of telling it through exposition, and the same rings true for documentation: provide enough context and examples so readers can get back to coding more effectively.
 
 ## Hopes for Inbound Parse
-nbound Parse is a ridiculously versatile feature, and I hope that the new workflow, specified parameters, and example payloads will help our customers discover new and interesting ways to use this tool.
+Inbound Parse is a ridiculously versatile feature, and I hope that the new workflow, specified parameters, and example payloads will help our customers discover new and interesting ways to use this tool.
 
 Last quarter Inbound Parse averaged 44 tickets a month. The ticket data post-docs launch is still coming in, but in the couple weeks since going live, the new workflow is in the top 5 Parse-related articles in our docs for page views!
 
