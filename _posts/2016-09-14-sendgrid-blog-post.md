@@ -21,7 +21,7 @@ As cool and useful as the Inbound Parse Webhook could be, its documentation need
 You can set up the Inbound Parse Webhook in three steps:
 
 1. Point a domain or subdomain to mx.sendgrid.net
-2. 3Add that domain or subdomain and a URL to POST the parsed data
+2. Add that domain or subdomain and a URL to POST the parsed data
 3. Write and install code to consume the data
 
 But adding an MX record requires messing with DNS records, and most people either don’t feel comfortable making changes or don’t even have permission to access DNS records.
