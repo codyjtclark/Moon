@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "About Me"
-date:   2017-09-07
+title:  "Type Project"
+date:   2017-10-30
 excerpt: "This project was an exercise in using visual elements including arrangement and typographical principles to attempt to emphasize different levels of text."
 project: true
 tag:
