@@ -32,7 +32,7 @@ I’m a huge fan skeuomorphisms, so I used Courier to emulate a typewriter. I fi
 
  I’m honestly not too sure what the character is, but I liked that I appears to be a mirrored K which relates back to the phonetic sounds of my initials. I’m pleased with how most of this composition turned out, but given more flexible options in text, I would like to fix how the text was justified to help create more balanced and logical lines and line breaks. I hate how both paragraphs end with orphaned words, but it was either orphans or breaking up words, so I chose the former.
 
-## **Composition 2 - Title ** 
+## **Composition 2 - Title** 
 
 ### **Overview** 
 
