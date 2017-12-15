@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Brochure"
+date:   2017-08-26
+excerpt: "This was a group effort where I designed the brochure."
+project: true
+tag:
+- School Work
+comments: false
+---
+
+This was a group effort where I designed the brochure.
+
+{% capture images %}
+  http://i1125.photobucket.com/albums/l588/CodyJosephTerreClark/Brochure-Final%201-page-002.jpg
+  http://i1125.photobucket.com/albums/l588/CodyJosephTerreClark/Brochure-Final%201-page-001.jpg
+{% endcapture %}
+{% include gallery images=images caption="Brochure" cols=2 %}
