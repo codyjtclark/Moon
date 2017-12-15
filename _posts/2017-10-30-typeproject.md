@@ -12,8 +12,8 @@ comments: false
 This project was an exercise in using visual elements including arrangement and typographical principles to attempt to emphasize different levels of text.
 
 {% capture images %}
-  http://s1125.photobucket.com/user/CodyJosephTerreClark/media/type%20project%2001.jpg.html
-  http://s1125.photobucket.com/user/CodyJosephTerreClark/media/type%20project%2002.jpg.html
-  http://s1125.photobucket.com/user/CodyJosephTerreClark/media/type%20project%2003.jpg.html
+  http://i1125.photobucket.com/albums/l588/CodyJosephTerreClark/type%20project%2001.jpg
+  http://i1125.photobucket.com/albums/l588/CodyJosephTerreClark/type%20project%2002.jpg
+  http://i1125.photobucket.com/albums/l588/CodyJosephTerreClark/type%20project%2003.jpg
 {% endcapture %}
 {% include gallery images=images caption="Type Project" cols=3 %}
