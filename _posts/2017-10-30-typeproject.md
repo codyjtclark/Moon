@@ -47,5 +47,6 @@ Given more time I would have been more precise with the color palette. Similarly
 ## **Composition 3 - Body** 
 
 ### **Reflection**
-This composition is definitely my weakest. It looks like a high school’s morning announcement slide, but I didn’t know what else to do. Emphasizing the text over a title figuratively blew my mind as emphasizing the text over the title is a huge paradigm shift from the hierarchical arrangement that’s been ingrained in me
+This composition is definitely my weakest. It looks like a high school’s morning announcement slide, but I didn’t know what else to do. Emphasizing the text over a title figuratively blew my mind because it's a huge paradigm shift from the hierarchical arrangement that’s been ingrained in me.
+
 I played with dropping the opacity of the title and placing the body text in front of it, but that looked even worse than the finished product. The colors are complimentary, or at least Adobe color picker says so, but I could definitely tweak that more to help create a better contrast. Similarly, I should probably make the padding from all side of the square be the same size instead of grouping the top and bottom and the left and right sides to create a more consistent proximity.
