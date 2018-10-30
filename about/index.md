@@ -6,7 +6,7 @@ date: 2016-03-21
 comments: false
 ---
 
-![me](/assets/img/12005.jpg)
+#[me](/assets/img/12005)
 
 [See My Projects](/categories){: .btn}
 
