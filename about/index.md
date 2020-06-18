@@ -10,4 +10,4 @@ Hi, my name is Cody Clark, and I'm a recovering prescriptivist currently admitte
 
 I "technically" write stuff and have written for [SendGrid](https:sendgrid.com), [Informatica](https:informatica.com), and [Honda R&D](www.hondaresearch.com). When I'm not writing, I enjoy playing in pit orchestras, visiting used book shops and arbitrarily omitting Oxford commas. 
 
-[See My Projects](/categories){: .btn}
+[See my work](/tags){: .btn}

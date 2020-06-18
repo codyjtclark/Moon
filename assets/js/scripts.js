@@ -55,8 +55,3 @@ $(document).ready(function() {
     mainClass: 'mfp-fade'
   });
 });
-
-
-function goBack() {
-window.history.back();
-}
