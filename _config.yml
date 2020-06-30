@@ -31,8 +31,8 @@ disqus_shortname:   codyjtclark
 # Social
 # if you don't have any of social below, comment the line.
 #google:
-  #plus:            #username
-  #analytics:
+  #plus:            username
+  analytics:        UA-125390637-3
   #verify:
   #ad-client:
   #ad-slot:
